@@ -25,7 +25,7 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 
-## 📈 Активность
+## 📈 Achievements
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ваш_ник)
 
