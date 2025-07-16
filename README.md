@@ -8,6 +8,7 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 **Programming languages**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)
 
 **DevOps**:
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)
@@ -19,6 +20,7 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
 
 ## 📈 Achievements
 
