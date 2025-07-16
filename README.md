@@ -30,9 +30,9 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ваш_ник)
 
 ## 📫 Как со мной связаться
-
+- Phone: 📞 +7(901)-371-20-51 :tele
 - Telegram: [@inxrius](https://t.me/inxrius)
-- Email: inariy3146@gmail.com
+- Email: 📧 inariy3146@gmail.com
 
 
 <!--
