@@ -1,12 +1,7 @@
-# Account development hasn't been completed yet
-
 # Hello there 👋
 
 ## 💻 About me
 I'm a beginning Python developer and DevOps engineer and student at ITMO University. Passionate about coding, developing, cybersecurity and automation. Currently seeking interships/junior roles to start my IT career.
-
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/inxrius)
-[![Email](https://img.shields.io/badge/-Email-important?style=flat&logo=Gmail&logoColor=white)](mailto:inariy3146@gmail.com)
 
 ## 🛠 Stack
 
