@@ -9,7 +9,7 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 
-**DevOps/Infrastructure**:
+**DevOps**:
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
