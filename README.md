@@ -8,9 +8,9 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/inxrius)
 [![Email](https://img.shields.io/badge/-Email-important?style=flat&logo=Gmail&logoColor=white)](mailto:inariy3146@gmail.com)
 
-## 🛠 Технологический стек
+## 🛠 Stack
 
-**Языки программирования**:
+**Programming languages**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 
@@ -20,7 +20,7 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 
-**Тестирование**:
+**Testing**:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
@@ -29,9 +29,9 @@ I'm a beginning Python developer and DevOps engineer and student at ITMO Univers
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ваш_ник)
 
-## 📫 Как со мной связаться
-- Phone: 📞 +7(901)-371-20-51 :tele
-- Telegram: [@inxrius](https://t.me/inxrius)
+## 📫 CONTACT
+- Phone: 📞 +7(901)-371-20-51
+- Telegram: 📘 [@inxrius](https://t.me/inxrius)
 - Email: 📧 inariy3146@gmail.com
 
 
