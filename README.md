@@ -3,7 +3,7 @@
 ## 💻 About me
 I'm a beginning Python developer and DevOps engineer and student at ITMO University. Passionate about coding, developing, cybersecurity and automation. Currently seeking interships/junior roles to start my IT career.
 
-## 🛠 Stackd
+## 🛠 Stack
 
 🐍 **Programming languages**:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
