@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ## 💻 About me
-I'm a beginning Python developer and DevOps engineer and student at ITMO University. Passionate about coding, developing, cybersecurity and automation. Currently seeking interships/junior roles to start my IT career.
+I'm a beginning Frontend developer and DevOps engineer and student at ITMO University. Passionate about coding, developing and cybersecurity. Currently seeking interships/junior roles to start my IT career.
 
 ## 🛠 Stack
 
