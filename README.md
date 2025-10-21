@@ -14,6 +14,7 @@ I'm a beginning Frontend developer and DevOps engineer and student at ITMO Unive
 ⚡ **Frontend**:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
 
 🔧 **DevOps**:
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform&logoColor=white)
@@ -27,7 +28,6 @@ I'm a beginning Frontend developer and DevOps engineer and student at ITMO Unive
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)
 
 📚 **Learning now**:
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)
 
 ## 📁 My projects
