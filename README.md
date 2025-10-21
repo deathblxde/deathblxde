@@ -30,6 +30,9 @@ I'm a beginning Frontend developer and DevOps engineer and student at ITMO Unive
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)
 
+## 📁 My projects
+List of projects (not finished yet)
+
 ## 📈 Achievements
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ваш_ник)
