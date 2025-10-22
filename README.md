@@ -33,7 +33,10 @@ I'm a beginning Frontend developer and DevOps engineer and student at ITMO Unive
 ## 📁 My projects
 List of projects (not finished yet)
 
-## 📈 Achievements
+## 📈 Certifications
+List of certificates (not finished yet)
+
+## 🏆 Achievements
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/ваш_ник)
 
