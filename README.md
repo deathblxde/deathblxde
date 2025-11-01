@@ -34,7 +34,7 @@ I'm a beginning Frontend developer and DevOps engineer and student at ITMO Unive
 List of projects (not finished yet)
 
 ## 📈 Certifications
-| Сертификат | Организация | Дата | Ссылка |
+| Certificate | Organization | Date | Link |
 |------------|-------------|------|--------|
 | Frontend: Start | itlogia | 2025 | [Просмотр](https://itlogia.ru/certificates/intensive/18604-111908) |
 | JavaScript Developer | freeCodeCamp | 2023 | [Просмотр]([ссылка]) |
