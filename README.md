@@ -36,7 +36,7 @@ List of projects (not finished yet)
 ## 📈 Certifications
 | Сертификат | Организация | Дата | Ссылка |
 |------------|-------------|------|--------|
-| Frontend: Start | itlogia | 2025 | [Просмотр]([https://itlogia.ru/certificates/intensive/18604-111908]) |
+| Frontend: Start | itlogia | 2025 | [Просмотр](https://itlogia.ru/certificates/intensive/18604-111908) |
 | JavaScript Developer | freeCodeCamp | 2023 | [Просмотр]([ссылка]) |
 | Docker Certified | Docker Inc. | 2023 | [Просмотр]([ссылка]) |
 
